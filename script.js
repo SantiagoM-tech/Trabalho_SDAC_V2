@@ -85,7 +85,7 @@ function runCode() {
 
 // SUBSTITUI O TEXTO ABAIXO PELO LINK DA TUA APRESENTAÇÃO.
 
-const AHASLIDES_LINK = "";
+const AHASLIDES_LINK = "https://ahaslides.com/TX0BT";
 
 function setupAhaSlides() {
     const button = document.getElementById("ahaslidesButton");
